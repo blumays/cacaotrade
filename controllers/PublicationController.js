@@ -193,6 +193,7 @@ PublicationController.validate = method => {
         }
       });
     }
+    
   }
 };
 
